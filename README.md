@@ -1,0 +1,2 @@
+# AutoCrop
+AutoCrop Berbasis Python 
